@@ -1,0 +1,11 @@
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\bin\Debug\netcoreapp2.0\HelloWorldService.deps.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\bin\Debug\netcoreapp2.0\HelloWorldService.runtimeconfig.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\bin\Debug\netcoreapp2.0\HelloWorldService.runtimeconfig.dev.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\bin\Debug\netcoreapp2.0\HelloWorldService.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\obj\Debug\netcoreapp2.0\HelloWorldService.csprojResolveAssemblyReference.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\obj\Debug\netcoreapp2.0\HelloWorldService.csproj.CoreCompileInputs.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\obj\Debug\netcoreapp2.0\HelloWorldService.AssemblyInfoInputs.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\obj\Debug\netcoreapp2.0\HelloWorldService.AssemblyInfo.cs
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\bin\Debug\netcoreapp2.0\HelloWorldService.pdb
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\obj\Debug\netcoreapp2.0\HelloWorldService.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService\obj\Debug\netcoreapp2.0\HelloWorldService.pdb

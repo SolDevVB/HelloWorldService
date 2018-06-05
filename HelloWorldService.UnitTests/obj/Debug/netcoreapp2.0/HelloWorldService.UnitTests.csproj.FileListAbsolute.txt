@@ -1,0 +1,17 @@
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\HelloWorldService.UnitTests.deps.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\HelloWorldService.UnitTests.runtimeconfig.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\HelloWorldService.UnitTests.runtimeconfig.dev.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\HelloWorldService.UnitTests.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\HelloWorldService.UnitTests.pdb
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\HelloWorldService.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\bin\Debug\netcoreapp2.0\HelloWorldService.pdb
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\obj\Debug\netcoreapp2.0\HelloWorldService.UnitTests.csprojResolveAssemblyReference.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\obj\Debug\netcoreapp2.0\HelloWorldService.UnitTests.csproj.CoreCompileInputs.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\obj\Debug\netcoreapp2.0\HelloWorldService.UnitTests.AssemblyInfoInputs.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\obj\Debug\netcoreapp2.0\HelloWorldService.UnitTests.AssemblyInfo.cs
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\obj\Debug\netcoreapp2.0\HelloWorldService.UnitTests.csproj.CopyComplete
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\obj\Debug\netcoreapp2.0\HelloWorldService.UnitTests.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorldService.UnitTests\obj\Debug\netcoreapp2.0\HelloWorldService.UnitTests.pdb

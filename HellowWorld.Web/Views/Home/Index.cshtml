@@ -1,0 +1,47 @@
+﻿@model HellowWorld.Web.Models.HelloWorldModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<br/><br/>
+<div class="table">
+    <div class="row">
+        <div class="col-md-2">
+            @Html.DisplayNameFor(model => model.Success)
+        </div>
+        <div class="col-md-2">
+            @Html.DisplayFor(model => model.Success)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            @Html.DisplayNameFor(model => model.Dto)
+        </div>
+        <div class="col-md-2">
+            @Html.DisplayFor(model => model.Dto)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            @Html.DisplayNameFor(model => model.Message)
+        </div>
+        <div class="col-md-2">
+            @Html.DisplayFor(model => model.Message)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            @Html.DisplayNameFor(model => model.WarningMessage)
+        </div>
+        <div class="col-md-2">
+            @Html.DisplayFor(model => model.WarningMessage)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            @Html.DisplayNameFor(model => model.ErrorMessage)
+        </div>
+        <div class="col-md-2">
+            @Html.DisplayFor(model => model.ErrorMessage)
+        </div>
+    </div>
+</div>

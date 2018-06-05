@@ -1,0 +1,11 @@
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\bin\Debug\netcoreapp2.0\HellowWorld.Web.deps.json
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\bin\Debug\netcoreapp2.0\HellowWorld.Web.runtimeconfig.json
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\bin\Debug\netcoreapp2.0\HellowWorld.Web.runtimeconfig.dev.json
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\bin\Debug\netcoreapp2.0\HellowWorld.Web.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\bin\Debug\netcoreapp2.0\HellowWorld.Web.pdb
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\obj\Debug\netcoreapp2.0\HellowWorld.Web.csproj.CoreCompileInputs.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\obj\Debug\netcoreapp2.0\HellowWorld.Web.AssemblyInfoInputs.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\obj\Debug\netcoreapp2.0\HellowWorld.Web.AssemblyInfo.cs
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\obj\Debug\netcoreapp2.0\HellowWorld.Web.dll
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\obj\Debug\netcoreapp2.0\HellowWorld.Web.pdb
+D:\Development\2017\Core 2.0\HelloWorldService\HellowWorld.Web\obj\Debug\netcoreapp2.0\HellowWorld.Web.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorld.Console\obj\Debug\netcoreapp2.0\HelloWorld.Console.csproj.CoreCompileInputs.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorld.Console\obj\Debug\netcoreapp2.0\HelloWorld.Console.AssemblyInfoInputs.cache
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorld.Console\obj\Debug\netcoreapp2.0\HelloWorld.Console.AssemblyInfo.cs
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorld.Console\bin\Debug\netcoreapp2.0\HelloWorld.Console.deps.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorld.Console\bin\Debug\netcoreapp2.0\HelloWorld.Console.runtimeconfig.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorld.Console\bin\Debug\netcoreapp2.0\HelloWorld.Console.runtimeconfig.dev.json
+D:\Development\2017\Core 2.0\HelloWorldService\HelloWorld.Console\bin\Debug\netcoreapp2.0\HelloWorld.Console.dll
